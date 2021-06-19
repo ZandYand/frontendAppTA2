@@ -10,5 +10,9 @@ Rama "master"
 # Para clonar la rama "master"
 git clone --branch master https://github.com/ZandYand/frontendAppTA2.git
 
+# Comandos importantes
+npm install
+npm start
+
 # Datos del estudiante
 Zandor Sánchez
