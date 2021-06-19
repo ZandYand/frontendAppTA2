@@ -4,5 +4,8 @@ Frontend de la Aplicación de TA2 del curso de Programación Concurrente y Distr
 # Tecnología utilizada
 React
 
+# Ubicación
+Rama "master"
+
 # Datos del estudiante
 Zandor Sánchez
