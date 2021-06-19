@@ -7,5 +7,8 @@ React
 # Ubicación
 Rama "master"
 
+# Para clonar la rama "master"
+git clone --branch master https://github.com/ZandYand/frontendAppTA2.git
+
 # Datos del estudiante
 Zandor Sánchez
